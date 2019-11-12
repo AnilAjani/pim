@@ -1,0 +1,117 @@
+#wrapper{
+    padding: 0px;
+}
+#left-side, #right-side{
+    padding: 0px;
+    margin: 0px;
+}
+#sidebar{
+    /*min-width: 250px;
+    max-width: 250px;*/
+    min-height: 100vh;
+    background-color: lightsteelblue;
+}
+#card-body{
+    margin-top: 100px;
+}
+.col-sm-3{
+    padding: 0px;
+    margin: 0px;
+}
+.col-sm-9{
+    padding: 0px;
+    margin: 0px;
+}
+#background{
+    background: ghostwhite
+}
+#sidebar-title{
+    margin-left: 75px;
+}
+#logo{
+    box-shadow: 6px 6px 18px black;
+    size: 25px;
+    margin: 0px auto;
+    width: 220px;
+    
+}
+#image{
+    size: 25px;
+}
+nav li{
+    margin-left: 100px;
+    list-style-type: none
+}
+.intro h2{
+    font-size: 25px;
+    width: 80%;
+    margin: 25px;  
+}
+.search{
+    margin-top: 20px;
+    margin-left: 20px;
+    height: 25px;
+    width: 25%; 
+}
+#search{
+    background:lightgray;
+}
+#table-one{
+    width: 200px;
+    height: 200px;
+}
+.card{
+    padding: 50px;
+}
+.table-login{
+    margin-left: auto;
+}
+a[href]{
+    margin-right: 100px;
+    font-size: 18px;
+}
+#form-box-right{
+    padding-left: 133px;
+}
+#qty{
+    margin-bottom: 50px;
+}
+#image2{
+    width: 170px;
+    height: 150px;
+}
+#card-form{
+    margin: 50px;
+    padding: 25px;
+}
+#card-login{
+    margin: 50px;
+}
+#cost{
+    width: 30px;
+    margin-top: 35px;
+}
+#sale{
+    height: 25px;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+#qty{
+    margin-top: 35px;
+}
+#product_one{
+    height: 125px;
+    width: 125px;
+}
+#product_two{
+    height: 125px;
+    width: 125px;
+}
+#product_three{
+    height: 125px;
+    width: 125px;
+}
+#product_four{
+    height: 125px;
+    width: 125px;
+}
